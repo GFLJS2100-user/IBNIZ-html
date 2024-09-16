@@ -1,7 +1,0 @@
-?package(ibniz): \
-needs="X11" \
-section="Applications/Video" \
-title="IBNIZ" \
-command="ibniz" \
-hints="Audio,Video,VJ,Live programming"
-
